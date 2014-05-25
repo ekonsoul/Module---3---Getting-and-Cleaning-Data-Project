@@ -1,7 +1,6 @@
 ## Module # 3 - Getting and Cleaning Data Project Solution.
 
 
-
 ## Step 1.1: Read Training Features and Label Them:
 
 # Provide colClasses to read.table() for faster reading:
